@@ -1,4 +1,4 @@
-The following Online Auction System is from the following
+The following Online Auction System contain:
 
 After compilation:
 Client side application - ClientMain.java
@@ -20,4 +20,4 @@ executed
 (all files in same directory)
 javac *.java --> java ServerMain
 
-seperate terminal java ClientMain
+seperate terminal --> java ClientMain
