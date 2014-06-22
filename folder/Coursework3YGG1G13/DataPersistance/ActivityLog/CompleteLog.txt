@@ -1,0 +1,7 @@
+16/05/14 15:49: Loading user data into datastructures
+16/05/14 15:49: Loading item data into datastructures
+16/05/14 15:49: Loading successful 
+16/05/14 15:49: Items registered: 0 Open Auctions: 0
+Users registered: 0 Authentications logged: 0 Owner-Item relationships: 
+0 bids:0
+16/05/14 15:49: Data structures ready for use
